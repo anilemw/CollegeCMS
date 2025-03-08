@@ -11,6 +11,8 @@ namespace CollegeCMS.Areas.Identity.Data;
 public class CollegeCMSUser : IdentityUser
 {
 
+
+
     [Required]
     public string Name { get; set; }
 
