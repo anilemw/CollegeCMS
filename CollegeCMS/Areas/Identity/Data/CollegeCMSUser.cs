@@ -9,6 +9,6 @@ namespace CollegeCMS.Areas.Identity.Data;
 // Add profile data for application users by adding properties to the CollegeCMSUser class
 public class CollegeCMSUser : IdentityUser
 {
-    public string abcd { get; set; }
+    
 }
 
